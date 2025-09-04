@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Miguel Ángel and I'm aFull Stack Developer Junior, from Jaen, Spain</p>
+<p align="left">My name is Miguel Ángel and I'm a Full Stack Developer Junior, from Jaen, Spain</p>
 
 ###
 
